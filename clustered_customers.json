@@ -1,0 +1,2002 @@
+[
+  {
+    "CustomerID": 1,
+    "Gender": "Male",
+    "Age": 19,
+    "Annual_Income_k": 15,
+    "Spending_Score": 39,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 2,
+    "Gender": "Male",
+    "Age": 21,
+    "Annual_Income_k": 15,
+    "Spending_Score": 81,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 3,
+    "Gender": "Female",
+    "Age": 20,
+    "Annual_Income_k": 16,
+    "Spending_Score": 6,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 4,
+    "Gender": "Female",
+    "Age": 23,
+    "Annual_Income_k": 16,
+    "Spending_Score": 77,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 5,
+    "Gender": "Female",
+    "Age": 31,
+    "Annual_Income_k": 17,
+    "Spending_Score": 40,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 6,
+    "Gender": "Female",
+    "Age": 22,
+    "Annual_Income_k": 17,
+    "Spending_Score": 76,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 7,
+    "Gender": "Female",
+    "Age": 35,
+    "Annual_Income_k": 18,
+    "Spending_Score": 6,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 8,
+    "Gender": "Female",
+    "Age": 23,
+    "Annual_Income_k": 18,
+    "Spending_Score": 94,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 9,
+    "Gender": "Male",
+    "Age": 64,
+    "Annual_Income_k": 19,
+    "Spending_Score": 3,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 10,
+    "Gender": "Female",
+    "Age": 30,
+    "Annual_Income_k": 19,
+    "Spending_Score": 72,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 11,
+    "Gender": "Male",
+    "Age": 67,
+    "Annual_Income_k": 19,
+    "Spending_Score": 14,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 12,
+    "Gender": "Female",
+    "Age": 35,
+    "Annual_Income_k": 19,
+    "Spending_Score": 99,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 13,
+    "Gender": "Female",
+    "Age": 58,
+    "Annual_Income_k": 20,
+    "Spending_Score": 15,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 14,
+    "Gender": "Female",
+    "Age": 24,
+    "Annual_Income_k": 20,
+    "Spending_Score": 77,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 15,
+    "Gender": "Male",
+    "Age": 37,
+    "Annual_Income_k": 20,
+    "Spending_Score": 13,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 16,
+    "Gender": "Male",
+    "Age": 22,
+    "Annual_Income_k": 20,
+    "Spending_Score": 79,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 17,
+    "Gender": "Female",
+    "Age": 35,
+    "Annual_Income_k": 21,
+    "Spending_Score": 35,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 18,
+    "Gender": "Male",
+    "Age": 20,
+    "Annual_Income_k": 21,
+    "Spending_Score": 66,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 19,
+    "Gender": "Male",
+    "Age": 52,
+    "Annual_Income_k": 23,
+    "Spending_Score": 29,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 20,
+    "Gender": "Female",
+    "Age": 35,
+    "Annual_Income_k": 23,
+    "Spending_Score": 98,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 21,
+    "Gender": "Male",
+    "Age": 35,
+    "Annual_Income_k": 24,
+    "Spending_Score": 35,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 22,
+    "Gender": "Male",
+    "Age": 25,
+    "Annual_Income_k": 24,
+    "Spending_Score": 73,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 23,
+    "Gender": "Female",
+    "Age": 46,
+    "Annual_Income_k": 25,
+    "Spending_Score": 5,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 24,
+    "Gender": "Male",
+    "Age": 31,
+    "Annual_Income_k": 25,
+    "Spending_Score": 73,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 25,
+    "Gender": "Female",
+    "Age": 54,
+    "Annual_Income_k": 28,
+    "Spending_Score": 14,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 26,
+    "Gender": "Male",
+    "Age": 29,
+    "Annual_Income_k": 28,
+    "Spending_Score": 82,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 27,
+    "Gender": "Female",
+    "Age": 45,
+    "Annual_Income_k": 28,
+    "Spending_Score": 32,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 28,
+    "Gender": "Male",
+    "Age": 35,
+    "Annual_Income_k": 28,
+    "Spending_Score": 61,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 29,
+    "Gender": "Female",
+    "Age": 40,
+    "Annual_Income_k": 29,
+    "Spending_Score": 31,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 30,
+    "Gender": "Female",
+    "Age": 23,
+    "Annual_Income_k": 29,
+    "Spending_Score": 87,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 31,
+    "Gender": "Male",
+    "Age": 60,
+    "Annual_Income_k": 30,
+    "Spending_Score": 4,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 32,
+    "Gender": "Female",
+    "Age": 21,
+    "Annual_Income_k": 30,
+    "Spending_Score": 73,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 33,
+    "Gender": "Male",
+    "Age": 53,
+    "Annual_Income_k": 33,
+    "Spending_Score": 4,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 34,
+    "Gender": "Male",
+    "Age": 18,
+    "Annual_Income_k": 33,
+    "Spending_Score": 92,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 35,
+    "Gender": "Female",
+    "Age": 49,
+    "Annual_Income_k": 33,
+    "Spending_Score": 14,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 36,
+    "Gender": "Female",
+    "Age": 21,
+    "Annual_Income_k": 33,
+    "Spending_Score": 81,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 37,
+    "Gender": "Female",
+    "Age": 42,
+    "Annual_Income_k": 34,
+    "Spending_Score": 17,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 38,
+    "Gender": "Female",
+    "Age": 30,
+    "Annual_Income_k": 34,
+    "Spending_Score": 73,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 39,
+    "Gender": "Female",
+    "Age": 36,
+    "Annual_Income_k": 37,
+    "Spending_Score": 26,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 40,
+    "Gender": "Female",
+    "Age": 20,
+    "Annual_Income_k": 37,
+    "Spending_Score": 75,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 41,
+    "Gender": "Female",
+    "Age": 65,
+    "Annual_Income_k": 38,
+    "Spending_Score": 35,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 42,
+    "Gender": "Male",
+    "Age": 24,
+    "Annual_Income_k": 38,
+    "Spending_Score": 92,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 43,
+    "Gender": "Male",
+    "Age": 48,
+    "Annual_Income_k": 39,
+    "Spending_Score": 36,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 44,
+    "Gender": "Female",
+    "Age": 31,
+    "Annual_Income_k": 39,
+    "Spending_Score": 61,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 45,
+    "Gender": "Female",
+    "Age": 49,
+    "Annual_Income_k": 39,
+    "Spending_Score": 28,
+    "Cluster": 4,
+    "Cluster_Name": "Sensible Budget Savers",
+    "Cluster_Color": "#f59e0b"
+  },
+  {
+    "CustomerID": 46,
+    "Gender": "Female",
+    "Age": 24,
+    "Annual_Income_k": 39,
+    "Spending_Score": 65,
+    "Cluster": 2,
+    "Cluster_Name": "Carefree Spenders",
+    "Cluster_Color": "#f43f5e"
+  },
+  {
+    "CustomerID": 47,
+    "Gender": "Female",
+    "Age": 50,
+    "Annual_Income_k": 40,
+    "Spending_Score": 55,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 48,
+    "Gender": "Female",
+    "Age": 27,
+    "Annual_Income_k": 40,
+    "Spending_Score": 47,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 49,
+    "Gender": "Female",
+    "Age": 29,
+    "Annual_Income_k": 40,
+    "Spending_Score": 42,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 50,
+    "Gender": "Female",
+    "Age": 31,
+    "Annual_Income_k": 40,
+    "Spending_Score": 42,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 51,
+    "Gender": "Female",
+    "Age": 49,
+    "Annual_Income_k": 42,
+    "Spending_Score": 52,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 52,
+    "Gender": "Male",
+    "Age": 33,
+    "Annual_Income_k": 42,
+    "Spending_Score": 60,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 53,
+    "Gender": "Female",
+    "Age": 31,
+    "Annual_Income_k": 43,
+    "Spending_Score": 54,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 54,
+    "Gender": "Male",
+    "Age": 59,
+    "Annual_Income_k": 43,
+    "Spending_Score": 60,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 55,
+    "Gender": "Female",
+    "Age": 50,
+    "Annual_Income_k": 43,
+    "Spending_Score": 45,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 56,
+    "Gender": "Male",
+    "Age": 47,
+    "Annual_Income_k": 43,
+    "Spending_Score": 41,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 57,
+    "Gender": "Female",
+    "Age": 51,
+    "Annual_Income_k": 44,
+    "Spending_Score": 50,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 58,
+    "Gender": "Male",
+    "Age": 69,
+    "Annual_Income_k": 44,
+    "Spending_Score": 46,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 59,
+    "Gender": "Female",
+    "Age": 27,
+    "Annual_Income_k": 46,
+    "Spending_Score": 51,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 60,
+    "Gender": "Male",
+    "Age": 53,
+    "Annual_Income_k": 46,
+    "Spending_Score": 46,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 61,
+    "Gender": "Male",
+    "Age": 70,
+    "Annual_Income_k": 46,
+    "Spending_Score": 56,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 62,
+    "Gender": "Male",
+    "Age": 19,
+    "Annual_Income_k": 46,
+    "Spending_Score": 55,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 63,
+    "Gender": "Female",
+    "Age": 67,
+    "Annual_Income_k": 47,
+    "Spending_Score": 52,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 64,
+    "Gender": "Female",
+    "Age": 54,
+    "Annual_Income_k": 47,
+    "Spending_Score": 59,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 65,
+    "Gender": "Male",
+    "Age": 63,
+    "Annual_Income_k": 48,
+    "Spending_Score": 51,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 66,
+    "Gender": "Male",
+    "Age": 18,
+    "Annual_Income_k": 48,
+    "Spending_Score": 59,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 67,
+    "Gender": "Female",
+    "Age": 43,
+    "Annual_Income_k": 48,
+    "Spending_Score": 50,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 68,
+    "Gender": "Female",
+    "Age": 68,
+    "Annual_Income_k": 48,
+    "Spending_Score": 48,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 69,
+    "Gender": "Male",
+    "Age": 19,
+    "Annual_Income_k": 48,
+    "Spending_Score": 59,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 70,
+    "Gender": "Female",
+    "Age": 32,
+    "Annual_Income_k": 48,
+    "Spending_Score": 47,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 71,
+    "Gender": "Male",
+    "Age": 70,
+    "Annual_Income_k": 49,
+    "Spending_Score": 55,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 72,
+    "Gender": "Female",
+    "Age": 47,
+    "Annual_Income_k": 49,
+    "Spending_Score": 42,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 73,
+    "Gender": "Female",
+    "Age": 60,
+    "Annual_Income_k": 50,
+    "Spending_Score": 49,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 74,
+    "Gender": "Female",
+    "Age": 60,
+    "Annual_Income_k": 50,
+    "Spending_Score": 56,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 75,
+    "Gender": "Male",
+    "Age": 59,
+    "Annual_Income_k": 54,
+    "Spending_Score": 47,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 76,
+    "Gender": "Male",
+    "Age": 26,
+    "Annual_Income_k": 54,
+    "Spending_Score": 54,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 77,
+    "Gender": "Female",
+    "Age": 45,
+    "Annual_Income_k": 54,
+    "Spending_Score": 53,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 78,
+    "Gender": "Male",
+    "Age": 40,
+    "Annual_Income_k": 54,
+    "Spending_Score": 48,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 79,
+    "Gender": "Female",
+    "Age": 23,
+    "Annual_Income_k": 54,
+    "Spending_Score": 52,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 80,
+    "Gender": "Female",
+    "Age": 49,
+    "Annual_Income_k": 54,
+    "Spending_Score": 42,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 81,
+    "Gender": "Male",
+    "Age": 57,
+    "Annual_Income_k": 54,
+    "Spending_Score": 51,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 82,
+    "Gender": "Male",
+    "Age": 38,
+    "Annual_Income_k": 54,
+    "Spending_Score": 55,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 83,
+    "Gender": "Male",
+    "Age": 67,
+    "Annual_Income_k": 54,
+    "Spending_Score": 41,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 84,
+    "Gender": "Female",
+    "Age": 46,
+    "Annual_Income_k": 54,
+    "Spending_Score": 44,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 85,
+    "Gender": "Female",
+    "Age": 21,
+    "Annual_Income_k": 54,
+    "Spending_Score": 57,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 86,
+    "Gender": "Male",
+    "Age": 48,
+    "Annual_Income_k": 54,
+    "Spending_Score": 46,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 87,
+    "Gender": "Female",
+    "Age": 55,
+    "Annual_Income_k": 57,
+    "Spending_Score": 58,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 88,
+    "Gender": "Female",
+    "Age": 22,
+    "Annual_Income_k": 57,
+    "Spending_Score": 55,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 89,
+    "Gender": "Female",
+    "Age": 34,
+    "Annual_Income_k": 58,
+    "Spending_Score": 60,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 90,
+    "Gender": "Female",
+    "Age": 50,
+    "Annual_Income_k": 58,
+    "Spending_Score": 46,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 91,
+    "Gender": "Female",
+    "Age": 68,
+    "Annual_Income_k": 59,
+    "Spending_Score": 55,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 92,
+    "Gender": "Male",
+    "Age": 18,
+    "Annual_Income_k": 59,
+    "Spending_Score": 41,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 93,
+    "Gender": "Male",
+    "Age": 48,
+    "Annual_Income_k": 60,
+    "Spending_Score": 49,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 94,
+    "Gender": "Female",
+    "Age": 40,
+    "Annual_Income_k": 60,
+    "Spending_Score": 40,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 95,
+    "Gender": "Female",
+    "Age": 32,
+    "Annual_Income_k": 60,
+    "Spending_Score": 42,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 96,
+    "Gender": "Male",
+    "Age": 24,
+    "Annual_Income_k": 60,
+    "Spending_Score": 52,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 97,
+    "Gender": "Female",
+    "Age": 47,
+    "Annual_Income_k": 60,
+    "Spending_Score": 47,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 98,
+    "Gender": "Female",
+    "Age": 27,
+    "Annual_Income_k": 60,
+    "Spending_Score": 50,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 99,
+    "Gender": "Male",
+    "Age": 48,
+    "Annual_Income_k": 61,
+    "Spending_Score": 42,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 100,
+    "Gender": "Male",
+    "Age": 20,
+    "Annual_Income_k": 61,
+    "Spending_Score": 49,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 101,
+    "Gender": "Female",
+    "Age": 23,
+    "Annual_Income_k": 62,
+    "Spending_Score": 41,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 102,
+    "Gender": "Female",
+    "Age": 49,
+    "Annual_Income_k": 62,
+    "Spending_Score": 48,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 103,
+    "Gender": "Male",
+    "Age": 67,
+    "Annual_Income_k": 62,
+    "Spending_Score": 59,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 104,
+    "Gender": "Male",
+    "Age": 26,
+    "Annual_Income_k": 62,
+    "Spending_Score": 55,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 105,
+    "Gender": "Male",
+    "Age": 49,
+    "Annual_Income_k": 62,
+    "Spending_Score": 56,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 106,
+    "Gender": "Female",
+    "Age": 21,
+    "Annual_Income_k": 62,
+    "Spending_Score": 42,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 107,
+    "Gender": "Female",
+    "Age": 66,
+    "Annual_Income_k": 63,
+    "Spending_Score": 50,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 108,
+    "Gender": "Male",
+    "Age": 54,
+    "Annual_Income_k": 63,
+    "Spending_Score": 46,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 109,
+    "Gender": "Male",
+    "Age": 68,
+    "Annual_Income_k": 63,
+    "Spending_Score": 43,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 110,
+    "Gender": "Male",
+    "Age": 66,
+    "Annual_Income_k": 63,
+    "Spending_Score": 48,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 111,
+    "Gender": "Male",
+    "Age": 65,
+    "Annual_Income_k": 63,
+    "Spending_Score": 52,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 112,
+    "Gender": "Female",
+    "Age": 19,
+    "Annual_Income_k": 63,
+    "Spending_Score": 54,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 113,
+    "Gender": "Female",
+    "Age": 38,
+    "Annual_Income_k": 64,
+    "Spending_Score": 42,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 114,
+    "Gender": "Male",
+    "Age": 19,
+    "Annual_Income_k": 64,
+    "Spending_Score": 46,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 115,
+    "Gender": "Female",
+    "Age": 18,
+    "Annual_Income_k": 65,
+    "Spending_Score": 48,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 116,
+    "Gender": "Female",
+    "Age": 19,
+    "Annual_Income_k": 65,
+    "Spending_Score": 50,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 117,
+    "Gender": "Female",
+    "Age": 63,
+    "Annual_Income_k": 65,
+    "Spending_Score": 43,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 118,
+    "Gender": "Female",
+    "Age": 49,
+    "Annual_Income_k": 65,
+    "Spending_Score": 59,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 119,
+    "Gender": "Female",
+    "Age": 51,
+    "Annual_Income_k": 67,
+    "Spending_Score": 43,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 120,
+    "Gender": "Female",
+    "Age": 50,
+    "Annual_Income_k": 67,
+    "Spending_Score": 57,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 121,
+    "Gender": "Male",
+    "Age": 27,
+    "Annual_Income_k": 67,
+    "Spending_Score": 56,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 122,
+    "Gender": "Female",
+    "Age": 38,
+    "Annual_Income_k": 67,
+    "Spending_Score": 40,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 123,
+    "Gender": "Female",
+    "Age": 40,
+    "Annual_Income_k": 69,
+    "Spending_Score": 58,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 124,
+    "Gender": "Male",
+    "Age": 39,
+    "Annual_Income_k": 69,
+    "Spending_Score": 91,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 125,
+    "Gender": "Female",
+    "Age": 23,
+    "Annual_Income_k": 70,
+    "Spending_Score": 29,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 126,
+    "Gender": "Female",
+    "Age": 31,
+    "Annual_Income_k": 70,
+    "Spending_Score": 77,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 127,
+    "Gender": "Male",
+    "Age": 43,
+    "Annual_Income_k": 71,
+    "Spending_Score": 35,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 128,
+    "Gender": "Male",
+    "Age": 40,
+    "Annual_Income_k": 71,
+    "Spending_Score": 95,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 129,
+    "Gender": "Male",
+    "Age": 59,
+    "Annual_Income_k": 71,
+    "Spending_Score": 11,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 130,
+    "Gender": "Male",
+    "Age": 38,
+    "Annual_Income_k": 71,
+    "Spending_Score": 75,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 131,
+    "Gender": "Male",
+    "Age": 47,
+    "Annual_Income_k": 71,
+    "Spending_Score": 9,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 132,
+    "Gender": "Male",
+    "Age": 39,
+    "Annual_Income_k": 71,
+    "Spending_Score": 75,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 133,
+    "Gender": "Female",
+    "Age": 25,
+    "Annual_Income_k": 72,
+    "Spending_Score": 34,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 134,
+    "Gender": "Female",
+    "Age": 31,
+    "Annual_Income_k": 72,
+    "Spending_Score": 71,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 135,
+    "Gender": "Male",
+    "Age": 20,
+    "Annual_Income_k": 73,
+    "Spending_Score": 5,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 136,
+    "Gender": "Female",
+    "Age": 29,
+    "Annual_Income_k": 73,
+    "Spending_Score": 88,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 137,
+    "Gender": "Female",
+    "Age": 44,
+    "Annual_Income_k": 73,
+    "Spending_Score": 7,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 138,
+    "Gender": "Male",
+    "Age": 32,
+    "Annual_Income_k": 73,
+    "Spending_Score": 73,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 139,
+    "Gender": "Male",
+    "Age": 19,
+    "Annual_Income_k": 74,
+    "Spending_Score": 10,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 140,
+    "Gender": "Female",
+    "Age": 35,
+    "Annual_Income_k": 74,
+    "Spending_Score": 72,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 141,
+    "Gender": "Female",
+    "Age": 57,
+    "Annual_Income_k": 75,
+    "Spending_Score": 5,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 142,
+    "Gender": "Male",
+    "Age": 32,
+    "Annual_Income_k": 75,
+    "Spending_Score": 93,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 143,
+    "Gender": "Female",
+    "Age": 28,
+    "Annual_Income_k": 76,
+    "Spending_Score": 40,
+    "Cluster": 0,
+    "Cluster_Name": "Mainstream Middle Class",
+    "Cluster_Color": "#0ea5e9"
+  },
+  {
+    "CustomerID": 144,
+    "Gender": "Female",
+    "Age": 32,
+    "Annual_Income_k": 76,
+    "Spending_Score": 87,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 145,
+    "Gender": "Male",
+    "Age": 25,
+    "Annual_Income_k": 77,
+    "Spending_Score": 12,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 146,
+    "Gender": "Male",
+    "Age": 28,
+    "Annual_Income_k": 77,
+    "Spending_Score": 97,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 147,
+    "Gender": "Male",
+    "Age": 48,
+    "Annual_Income_k": 77,
+    "Spending_Score": 36,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 148,
+    "Gender": "Female",
+    "Age": 32,
+    "Annual_Income_k": 77,
+    "Spending_Score": 74,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 149,
+    "Gender": "Female",
+    "Age": 34,
+    "Annual_Income_k": 78,
+    "Spending_Score": 22,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 150,
+    "Gender": "Male",
+    "Age": 34,
+    "Annual_Income_k": 78,
+    "Spending_Score": 90,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 151,
+    "Gender": "Male",
+    "Age": 43,
+    "Annual_Income_k": 78,
+    "Spending_Score": 17,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 152,
+    "Gender": "Male",
+    "Age": 39,
+    "Annual_Income_k": 78,
+    "Spending_Score": 88,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 153,
+    "Gender": "Female",
+    "Age": 44,
+    "Annual_Income_k": 78,
+    "Spending_Score": 20,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 154,
+    "Gender": "Female",
+    "Age": 38,
+    "Annual_Income_k": 78,
+    "Spending_Score": 76,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 155,
+    "Gender": "Female",
+    "Age": 47,
+    "Annual_Income_k": 78,
+    "Spending_Score": 16,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 156,
+    "Gender": "Female",
+    "Age": 27,
+    "Annual_Income_k": 78,
+    "Spending_Score": 89,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 157,
+    "Gender": "Male",
+    "Age": 37,
+    "Annual_Income_k": 78,
+    "Spending_Score": 1,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 158,
+    "Gender": "Female",
+    "Age": 30,
+    "Annual_Income_k": 78,
+    "Spending_Score": 78,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 159,
+    "Gender": "Male",
+    "Age": 34,
+    "Annual_Income_k": 78,
+    "Spending_Score": 1,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 160,
+    "Gender": "Female",
+    "Age": 30,
+    "Annual_Income_k": 78,
+    "Spending_Score": 73,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 161,
+    "Gender": "Female",
+    "Age": 56,
+    "Annual_Income_k": 79,
+    "Spending_Score": 35,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 162,
+    "Gender": "Female",
+    "Age": 29,
+    "Annual_Income_k": 79,
+    "Spending_Score": 83,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 163,
+    "Gender": "Male",
+    "Age": 19,
+    "Annual_Income_k": 81,
+    "Spending_Score": 5,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 164,
+    "Gender": "Female",
+    "Age": 31,
+    "Annual_Income_k": 81,
+    "Spending_Score": 93,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 165,
+    "Gender": "Male",
+    "Age": 50,
+    "Annual_Income_k": 85,
+    "Spending_Score": 26,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 166,
+    "Gender": "Female",
+    "Age": 36,
+    "Annual_Income_k": 85,
+    "Spending_Score": 75,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 167,
+    "Gender": "Male",
+    "Age": 42,
+    "Annual_Income_k": 86,
+    "Spending_Score": 20,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 168,
+    "Gender": "Female",
+    "Age": 33,
+    "Annual_Income_k": 86,
+    "Spending_Score": 95,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 169,
+    "Gender": "Female",
+    "Age": 36,
+    "Annual_Income_k": 87,
+    "Spending_Score": 27,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 170,
+    "Gender": "Male",
+    "Age": 32,
+    "Annual_Income_k": 87,
+    "Spending_Score": 63,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 171,
+    "Gender": "Male",
+    "Age": 40,
+    "Annual_Income_k": 87,
+    "Spending_Score": 13,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 172,
+    "Gender": "Male",
+    "Age": 28,
+    "Annual_Income_k": 87,
+    "Spending_Score": 75,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 173,
+    "Gender": "Male",
+    "Age": 36,
+    "Annual_Income_k": 87,
+    "Spending_Score": 10,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 174,
+    "Gender": "Male",
+    "Age": 36,
+    "Annual_Income_k": 87,
+    "Spending_Score": 92,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 175,
+    "Gender": "Female",
+    "Age": 52,
+    "Annual_Income_k": 88,
+    "Spending_Score": 13,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 176,
+    "Gender": "Female",
+    "Age": 30,
+    "Annual_Income_k": 88,
+    "Spending_Score": 86,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 177,
+    "Gender": "Male",
+    "Age": 58,
+    "Annual_Income_k": 88,
+    "Spending_Score": 15,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 178,
+    "Gender": "Male",
+    "Age": 27,
+    "Annual_Income_k": 88,
+    "Spending_Score": 69,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 179,
+    "Gender": "Male",
+    "Age": 59,
+    "Annual_Income_k": 93,
+    "Spending_Score": 14,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 180,
+    "Gender": "Male",
+    "Age": 35,
+    "Annual_Income_k": 93,
+    "Spending_Score": 90,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 181,
+    "Gender": "Female",
+    "Age": 37,
+    "Annual_Income_k": 97,
+    "Spending_Score": 32,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 182,
+    "Gender": "Female",
+    "Age": 32,
+    "Annual_Income_k": 97,
+    "Spending_Score": 86,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 183,
+    "Gender": "Male",
+    "Age": 46,
+    "Annual_Income_k": 98,
+    "Spending_Score": 15,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 184,
+    "Gender": "Female",
+    "Age": 29,
+    "Annual_Income_k": 98,
+    "Spending_Score": 88,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 185,
+    "Gender": "Female",
+    "Age": 41,
+    "Annual_Income_k": 99,
+    "Spending_Score": 39,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 186,
+    "Gender": "Male",
+    "Age": 30,
+    "Annual_Income_k": 99,
+    "Spending_Score": 97,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 187,
+    "Gender": "Female",
+    "Age": 54,
+    "Annual_Income_k": 101,
+    "Spending_Score": 24,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 188,
+    "Gender": "Male",
+    "Age": 28,
+    "Annual_Income_k": 101,
+    "Spending_Score": 68,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 189,
+    "Gender": "Female",
+    "Age": 41,
+    "Annual_Income_k": 103,
+    "Spending_Score": 17,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 190,
+    "Gender": "Female",
+    "Age": 36,
+    "Annual_Income_k": 103,
+    "Spending_Score": 85,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 191,
+    "Gender": "Female",
+    "Age": 34,
+    "Annual_Income_k": 103,
+    "Spending_Score": 23,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 192,
+    "Gender": "Female",
+    "Age": 32,
+    "Annual_Income_k": 103,
+    "Spending_Score": 69,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 193,
+    "Gender": "Male",
+    "Age": 33,
+    "Annual_Income_k": 113,
+    "Spending_Score": 8,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 194,
+    "Gender": "Female",
+    "Age": 38,
+    "Annual_Income_k": 113,
+    "Spending_Score": 91,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 195,
+    "Gender": "Female",
+    "Age": 47,
+    "Annual_Income_k": 120,
+    "Spending_Score": 16,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 196,
+    "Gender": "Female",
+    "Age": 35,
+    "Annual_Income_k": 120,
+    "Spending_Score": 79,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 197,
+    "Gender": "Female",
+    "Age": 45,
+    "Annual_Income_k": 126,
+    "Spending_Score": 28,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 198,
+    "Gender": "Male",
+    "Age": 32,
+    "Annual_Income_k": 126,
+    "Spending_Score": 74,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  },
+  {
+    "CustomerID": 199,
+    "Gender": "Male",
+    "Age": 32,
+    "Annual_Income_k": 137,
+    "Spending_Score": 18,
+    "Cluster": 1,
+    "Cluster_Name": "Frugal Affluent (Savers)",
+    "Cluster_Color": "#8b5cf6"
+  },
+  {
+    "CustomerID": 200,
+    "Gender": "Male",
+    "Age": 30,
+    "Annual_Income_k": 137,
+    "Spending_Score": 83,
+    "Cluster": 3,
+    "Cluster_Name": "High-Value VIPs",
+    "Cluster_Color": "#10b981"
+  }
+]

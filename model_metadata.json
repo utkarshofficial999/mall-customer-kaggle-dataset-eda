@@ -1,0 +1,113 @@
+{
+  "model_name": "KMeans_Customer_Segmentation",
+  "version": "1.0.0",
+  "k_clusters": 5,
+  "features": [
+    "Annual_Income_k",
+    "Spending_Score"
+  ],
+  "metrics": {
+    "silhouette_score": 0.5547,
+    "inertia_wcss": 65.5684,
+    "davies_bouldin_index": 0.5722,
+    "calinski_harabasz_index": 248.6493,
+    "sample_size": 200
+  },
+  "scaler": {
+    "mean": [
+      60.56,
+      50.2
+    ],
+    "scale": [
+      26.19897707926781,
+      25.7588819633151
+    ]
+  },
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "name": "Mainstream Middle Class",
+      "persona_id": "middle_class",
+      "color": "#0ea5e9",
+      "icon": "\ud83c\udfaf",
+      "description": "Moderate annual income ($40k-$70k) with moderate spending score (40-60). The steady retail backbone.",
+      "marketing_strategy": "Deploy family weekend specials, seasonal catalog launches, loyalty points rewards, and popular brand deals.",
+      "centroid_income": 55.3,
+      "centroid_spending": 49.52,
+      "customer_count": 81,
+      "percentage": 40.5,
+      "mean_age": 42.7,
+      "mean_income": 55.3,
+      "mean_spending": 49.5,
+      "female_ratio": 59.3
+    },
+    {
+      "cluster_id": 1,
+      "name": "Frugal Affluent (Savers)",
+      "persona_id": "frugal_affluent",
+      "color": "#8b5cf6",
+      "icon": "\ud83d\udc8e",
+      "description": "High annual income ($70k-$137k) with conservative spending (1-40). Wealthy but value-driven.",
+      "marketing_strategy": "Target with quality assurance, durable products, premium warranties, investment-grade items, and prestige value.",
+      "centroid_income": 88.2,
+      "centroid_spending": 17.11,
+      "customer_count": 35,
+      "percentage": 17.5,
+      "mean_age": 41.1,
+      "mean_income": 88.2,
+      "mean_spending": 17.1,
+      "female_ratio": 45.7
+    },
+    {
+      "cluster_id": 2,
+      "name": "Carefree Spenders",
+      "persona_id": "carefree",
+      "color": "#f43f5e",
+      "icon": "\u26a1",
+      "description": "Modest annual income ($15k-$40k) but high spending score (60-100). Youthful trendsetters and impulse buyers.",
+      "marketing_strategy": "Promote trendy apparel, limited edition pop-ups, buy-now-pay-later (BNPL) financing, and social media flash sales.",
+      "centroid_income": 25.73,
+      "centroid_spending": 79.36,
+      "customer_count": 22,
+      "percentage": 11.0,
+      "mean_age": 25.3,
+      "mean_income": 25.7,
+      "mean_spending": 79.4,
+      "female_ratio": 59.1
+    },
+    {
+      "cluster_id": 3,
+      "name": "High-Value VIPs",
+      "persona_id": "vip",
+      "color": "#10b981",
+      "icon": "\ud83d\udc51",
+      "description": "High annual income ($70k-$137k) with high spending score (60-100). Prime targets for premium services.",
+      "marketing_strategy": "Invite to exclusive loyalty clubs, VIP concierge, private product previews, and luxury brand collaborations.",
+      "centroid_income": 86.54,
+      "centroid_spending": 82.13,
+      "customer_count": 39,
+      "percentage": 19.5,
+      "mean_age": 32.7,
+      "mean_income": 86.5,
+      "mean_spending": 82.1,
+      "female_ratio": 53.8
+    },
+    {
+      "cluster_id": 4,
+      "name": "Sensible Budget Savers",
+      "persona_id": "budget",
+      "color": "#f59e0b",
+      "icon": "\ud83d\udee1\ufe0f",
+      "description": "Modest annual income ($15k-$40k) and conservative spending (1-40). Economically prudent shoppers.",
+      "marketing_strategy": "Offer bundle savings, discount coupons, loyalty cashback, clearance promotions, and essential product lines.",
+      "centroid_income": 26.3,
+      "centroid_spending": 20.91,
+      "customer_count": 23,
+      "percentage": 11.5,
+      "mean_age": 45.2,
+      "mean_income": 26.3,
+      "mean_spending": 20.9,
+      "female_ratio": 60.9
+    }
+  ]
+}
